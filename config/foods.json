@@ -1,0 +1,132 @@
+{
+  "food": [
+    {
+      "name": "Chicken",
+      "calories": 165
+    },
+    {
+      "name": "Beef",
+      "calories": 250
+    },
+    {
+      "name": "Salmon",
+      "calories": 208
+    },
+    {
+      "name": "Lamb",
+      "calories": 282
+    },
+    {
+      "name": "Tuna",
+      "calories": 184
+    },
+    {
+      "name": "Pork",
+      "calories": 242
+    },
+    {
+      "name": "Shrimp",
+      "calories": 85
+    },
+    {
+      "name": "Eggplant",
+      "calories": 25
+    },
+    {
+      "name": "Mushroom",
+      "calories": 22
+    },
+    {
+      "name": "Tofu",
+      "calories": 76
+    },
+    {
+      "name": "Quinoa",
+      "calories": 120
+    },
+    {
+      "name": "Ham",
+      "calories": 145
+    },
+    {
+      "name": "Cheese",
+      "calories": 402
+    },
+    {
+      "name": "Lettuce",
+      "calories": 15
+    },
+    {
+      "name": "Tomato",
+      "calories": 18
+    },
+    {
+      "name": "Cucumber",
+      "calories": 15
+    },
+    {
+      "name": "Onion",
+      "calories": 40
+    },
+    {
+      "name": "Bell Pepper",
+      "calories": 31
+    },
+    {
+      "name": "Carrot",
+      "calories": 41
+    },
+    {
+      "name": "Garlic",
+      "calories": 149
+    },
+    {
+      "name": "Olive Oil",
+      "calories": 884
+    },
+    {
+      "name": "Soy Sauce",
+      "calories": 53
+    },
+    {
+      "name": "Brown Rice",
+      "calories": 111
+    },
+    {
+      "name": "Spaghetti",
+      "calories": 131
+    },
+    {
+      "name": "Tortilla",
+      "calories": 218
+    },
+    {
+      "name": "Rice",
+      "calories": 130
+    },
+    {
+      "name": "Egg",
+      "calories": 155
+    },
+    {
+      "name": "Pasta",
+      "calories": 131
+    },
+    {
+      "name": "Bread",
+      "calories": 265
+    },
+    {
+      "name": "Risotto Rice",
+      "calories": 130
+    },
+    {
+      "name": "Quinoa",
+      "calories": 120
+    },
+    {
+      "name": "Falafel",
+      "calories": 333
+    }
+  ]
+}

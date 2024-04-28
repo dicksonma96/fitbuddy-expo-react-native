@@ -1,0 +1,76 @@
+{
+  "classes": [
+      {
+          "id": 1,
+          "img_url": "https://images.pexels.com/photos/1431282/pexels-photo-1431282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Body Sculpting",
+          "time": "15 minutes"
+      },
+      {
+          "id": 2,
+          "img_url": "https://images.pexels.com/photos/28076/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Slender Legs",
+          "time": "10 minutes"
+      },
+      {
+          "id": 3,
+          "img_url": "https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Core Strength",
+          "time": "20 minutes"
+      },
+      {
+          "id": 4,
+          "img_url": "https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Upper Body Workout",
+          "time": "25 minutes"
+      },
+      {
+          "id": 5,
+          "img_url": "https://images.pexels.com/photos/1671219/pexels-photo-1671219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Flexibility Training",
+          "time": "30 minutes"
+      },
+      {
+          "id": 6,
+          "img_url": "https://images.pexels.com/photos/4753928/pexels-photo-4753928.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Cardio Blast",
+          "time": "15 minutes"
+      },
+      {
+          "id": 7,
+          "img_url": "https://images.pexels.com/photos/3775593/pexels-photo-3775593.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Pilates Flow",
+          "time": "20 minutes"
+      },
+      {
+          "id": 8,
+          "img_url": "https://images.pexels.com/photos/317155/pexels-photo-317155.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Yoga Stretch",
+          "time": "25 minutes"
+      },
+      {
+          "id": 9,
+          "img_url": "https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "HIIT Session",
+          "time": "15 minutes"
+      },
+      {
+          "id": 10,
+          "img_url": "https://images.pexels.com/photos/116077/pexels-photo-116077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Strength Training",
+          "time": "30 minutes"
+      },
+      {
+          "id": 11,
+          "img_url": "https://images.pexels.com/photos/19254708/pexels-photo-19254708/free-photo-of-a-man-exercising-on-a-stationary-bicycle-at-the-gym.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Full Body Workout",
+          "time": "40 minutes"
+      },
+      {
+          "id": 12,
+          "img_url": "https://images.pexels.com/photos/2827392/pexels-photo-2827392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Endurance Run",
+          "time": "45 minutes"
+      }
+  ]
+}
